@@ -1,7 +1,7 @@
 {
   "name": "playwright-tests",
   "version": "1.0.0",
-  "description": "A Sample Play write test",
+  "description": "A Sample",
   "main": "index.js",
   "scripts": {
     "test": "playwright test"
@@ -11,3 +11,4 @@
   "devDependencies": {
     "@playwright/test": "^1.15.0"
   }
+}
