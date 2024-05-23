@@ -9,6 +9,7 @@
   "author": "Anvesh Dasari",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.41.0"
-  }
+    "@playwright/test": "^1.30.0"
+  },
+  "playwright": "1.30.0"
 }
